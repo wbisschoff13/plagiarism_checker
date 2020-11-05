@@ -1,4 +1,5 @@
 mosspy
 easygui
 beautifulsoup4
-py7zr
+patool
+pyunpack
