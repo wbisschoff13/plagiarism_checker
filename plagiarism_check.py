@@ -5,7 +5,7 @@ import os
 import easygui
 import re
 import csv
-import py7zr
+from pyunpack import Archive
 
 minimum_matching_percentage = 50
 minimum_matching_lines = 40
